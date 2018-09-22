@@ -20,4 +20,4 @@ RUFEN SIE MICH AN
 <br />Schulstrasse 26, Kayhude
 <br />0176 54 85 3861
 <br />kontakt@magemind.de
-<br /> Website: <a href="https://www.magemind.de/webdesign">https://www.magemind.de/webdesign</a>
+<br /> Website: <a href="https://www.magemind.de/webdesign-freelancer/">https://www.magemind.de/webdesign-freelancer</a>
