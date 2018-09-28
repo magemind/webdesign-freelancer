@@ -1,7 +1,7 @@
-# webdesign-freelancer
+# webentwicklung-freelancer
 
-Auf der Suche nach einem <strong>Webdesign Freelancer</strong>?
-Als <strong>Webdesign Freelancer</strong> mit über 13 Jahren Programmiererfahrung, beherrsche ich sowohl alle gängigen Frontend- wie Backend Technologien:
+Auf der Suche nach einem <strong>Freelancer für Webentwicklung</strong>?
+Als <strong>Freelancer für Webentwicklung</strong> mit über 13 Jahren Programmiererfahrung, beherrsche ich sowohl alle gängigen Frontend- wie Backend Technologien:
 
 <ul>
 <li>PHP5 (objektorientiert)</li>
@@ -20,4 +20,4 @@ RUFEN SIE MICH AN
 <br />Schulstrasse 26, Kayhude
 <br />0176 54 85 3861
 <br />kontakt@magemind.de
-<br /> Website: <a href="https://www.magemind.de/webdesign-freelancer/">https://www.magemind.de/webdesign-freelancer</a>
+<br /> Website: <a href="https://www.magemind.de/webentwicklung-freelancer/">https://www.magemind.de/webentwicklung-freelancer/</a>
